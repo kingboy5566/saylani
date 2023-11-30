@@ -1,4 +1,5 @@
-.container-fluid img{ width: 20%;}
+.container-fluid img{ width: 21%;
+  margin-left: -12%;}
 
 
 
@@ -6,7 +7,7 @@
 i{ 
     font-size: 25px;
 
- margin-right: 1%;
+ margin-right: -15%;
  margin-top: 4px;
  margin-left: 10px;}
 
@@ -319,7 +320,7 @@ margin: auto;}
             font-size: 150%;}
 
 
-}
+
 
    
 
